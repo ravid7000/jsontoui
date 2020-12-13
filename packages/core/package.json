@@ -1,0 +1,26 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Ravi Dhiman <ravid7000@gmail.com>",
+  "homepage": "https://github.com/ravid7000/jsontoui#readme",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravid7000/jsontoui.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ravid7000/jsontoui/issues"
+  }
+}
